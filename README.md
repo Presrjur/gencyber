@@ -1,4 +1,4 @@
-#Gencyber
+# Gencyber
 
 Sort the blocks (txt files) into the correct holes (folders)! 
 If you find any garbage, remove it with "rm garbage". 
